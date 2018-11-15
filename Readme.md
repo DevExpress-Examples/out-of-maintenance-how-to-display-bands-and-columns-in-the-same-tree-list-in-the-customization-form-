@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyAdvBandedGridView.cs](./CS/CustomDescendants/MyAdvBandedGridView.cs) (VB: [MyAdvBandedGridView.vb](./VB/CustomDescendants/MyAdvBandedGridView.vb))
+* [MyAdvBandedGridViewInfoRegistrator.cs](./CS/CustomDescendants/MyAdvBandedGridViewInfoRegistrator.cs) (VB: [MyAdvBandedGridViewInfoRegistrator.vb](./VB/CustomDescendants/MyAdvBandedGridViewInfoRegistrator.vb))
+* [MyBandedGridView.cs](./CS/CustomDescendants/MyBandedGridView.cs) (VB: [MyBandedGridView.vb](./VB/CustomDescendants/MyBandedGridView.vb))
+* [MyBandedGridViewInfoRegistrator.cs](./CS/CustomDescendants/MyBandedGridViewInfoRegistrator.cs) (VB: [MyBandedGridViewInfoRegistrator.vb](./VB/CustomDescendants/MyBandedGridViewInfoRegistrator.vb))
+* [MyGridControl.cs](./CS/CustomDescendants/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/CustomDescendants/MyGridControl.vb))
+* [TreeListBandedCustomizationForm.cs](./CS/CustomDescendants/TreeListBandedCustomizationForm.cs) (VB: [TreeListBandedCustomizationForm.vb](./VB/CustomDescendants/TreeListBandedCustomizationForm.vb))
+* [TreeListForBands.cs](./CS/CustomDescendants/TreeListForBands.cs) (VB: [TreeListForBands.vb](./VB/CustomDescendants/TreeListForBands.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+<!-- default file list end -->
 # How to display bands and columns in the same tree list in the customization form
 
 
